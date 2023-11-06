@@ -19,6 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [HowTo: Sync markdown posts from yuque](https://medium.com/@banyudu/howto-sync-markdown-posts-from-yuque-40af1b827bbe?source=rss-797858f53642------2)
+- [优化前端应用性能 — 网络篇](https://medium.com/@banyudu/%E4%BC%98%E5%8C%96%E5%89%8D%E7%AB%AF%E5%BA%94%E7%94%A8%E6%80%A7%E8%83%BD-%E7%BD%91%E7%BB%9C%E7%AF%87-b94feefeb8b0?source=rss-797858f53642------2)
+- [A better node.js heap diff tool](https://medium.com/@banyudu/a-better-node-js-heap-diff-tool-4cbfef79a7da?source=rss-797858f53642------2)
+- [像操作系统一样工作](https://medium.com/@banyudu/%E5%83%8F%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B8%80%E6%A0%B7%E5%B7%A5%E4%BD%9C-a7990af2c566?source=rss-797858f53642------2)
+- [Migrating to monorepo](https://medium.com/swlh/migrating-to-monorepo-ee641dd6502a?source=rss-797858f53642------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
