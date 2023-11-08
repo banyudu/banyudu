@@ -20,10 +20,10 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Overcoming Chrome Extension Manifest V3 Remote Code Restrictions: A Breakthrough and Its…](https://medium.com/@banyudu/overcoming-chrome-extension-manifest-v3-remote-code-restrictions-a-breakthrough-and-its-b8854eeb2ef2?source=rss-797858f53642------2)
-- [HowTo: Sync markdown posts from yuque](https://medium.com/@banyudu/howto-sync-markdown-posts-from-yuque-40af1b827bbe?source=rss-797858f53642------2)
-- [优化前端应用性能 — 网络篇](https://medium.com/@banyudu/%E4%BC%98%E5%8C%96%E5%89%8D%E7%AB%AF%E5%BA%94%E7%94%A8%E6%80%A7%E8%83%BD-%E7%BD%91%E7%BB%9C%E7%AF%87-b94feefeb8b0?source=rss-797858f53642------2)
-- [A better node.js heap diff tool](https://medium.com/@banyudu/a-better-node-js-heap-diff-tool-4cbfef79a7da?source=rss-797858f53642------2)
-- [像操作系统一样工作](https://medium.com/@banyudu/%E5%83%8F%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B8%80%E6%A0%B7%E5%B7%A5%E4%BD%9C-a7990af2c566?source=rss-797858f53642------2)
+- [Chrome插件开发浅浅谈](https://gist.github.com/banyudu/00a85e34447db03bcd647af5b7b88bf1)
+- [Generate git commit sha for every line of code in given file](https://gist.github.com/banyudu/0735ede0b9236751b4dea4c733fc7b91)
+- [.npmrc for China users](https://gist.github.com/banyudu/e1ae76bd5eb4bda990b08b9261bc9f1e)
+- [Answer by banyudu for Continue building React project with newer version](https://stackoverflow.com/questions/73459218/continue-building-react-project-with-newer-version/73467110#73467110)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
