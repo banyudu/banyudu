@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Overcoming Chrome Extension Manifest V3 Remote Code Restrictions: A Breakthrough and Its…](https://medium.com/@banyudu/overcoming-chrome-extension-manifest-v3-remote-code-restrictions-a-breakthrough-and-its-b8854eeb2ef2?source=rss-797858f53642------2)
 - [Chrome插件开发浅浅谈](https://gist.github.com/banyudu/00a85e34447db03bcd647af5b7b88bf1)
 - [Generate git commit sha for every line of code in given file](https://gist.github.com/banyudu/0735ede0b9236751b4dea4c733fc7b91)
 - [.npmrc for China users](https://gist.github.com/banyudu/e1ae76bd5eb4bda990b08b9261bc9f1e)
 - [Answer by banyudu for Continue building React project with newer version](https://stackoverflow.com/questions/73459218/continue-building-react-project-with-newer-version/73467110#73467110)
-- [Answer by banyudu for How to style child components in React with CSS Modules](https://stackoverflow.com/questions/50746912/how-to-style-child-components-in-react-with-css-modules/73285924#73285924)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
