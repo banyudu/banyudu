@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/banyudu" target="blank"><img src="https://img.shields.io/twitter/follow/banyudu?logo=twitter&style=for-the-badge" alt="banyudu" /></a> </p>
 
-- 🔭 I’m currently working on [kerome](https://github.com/ermine-js/kerome)
-
 - 🌱 I’m currently learning **Machine Learning and Rust programming Language.**
 
 - 📝 I regularly write articles on [https://banyudu.com/blog](https://banyudu.com/blog)
