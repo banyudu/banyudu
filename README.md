@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **banyudu@gmail.com**
 
-- 📄 Know about my experiences [https://banyudu.com/resume](https://banyudu.com/resume)
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Introducing S.T.A.R as an alternative to S.M.A.R.T objective definition](https://gist.github.com/banyudu/48a38feb53d03909ab32ee96e388609b)
