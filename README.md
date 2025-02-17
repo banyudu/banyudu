@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/banyudu" target="blank"><img src="https://img.shields.io/twitter/follow/banyudu?logo=twitter&style=for-the-badge" alt="banyudu" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Rust programming Language.**
-
-- 📝 I regularly write articles on [https://banyudu.com/blog](https://banyudu.com/blog)
-
-- 💬 Ask me about **react, chrome extension and typescript**
-
 - 📫 How to reach me **banyudu@gmail.com**
 
 ### Blogs posts
