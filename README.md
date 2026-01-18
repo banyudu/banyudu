@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Recover broken webm file](https://gist.github.com/banyudu/c2cd466470a8a2ff1daecd5aed36b3eb)
 - [Git merge-info command](https://gist.github.com/banyudu/ed874e8011366c755288579e4cded35b)
 - [Introducing S.T.A.R as an alternative to S.M.A.R.T objective definition](https://gist.github.com/banyudu/48a38feb53d03909ab32ee96e388609b)
 - [Typescript truthy falsy guard](https://gist.github.com/banyudu/2787db221933bbdd935f67b40da14096)
 - [Managing Multiple Git Configurations](https://medium.com/@banyudu/managing-multiple-git-configurations-798df84404d2?source=rss-797858f53642------2)
-- [How to add custom request header to Rewrites in Next.js](https://stackoverflow.com/questions/77610279/how-to-add-custom-request-header-to-rewrites-in-next-js)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
