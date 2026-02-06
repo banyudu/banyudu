@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Safe rm wrapper for macOS - delegates to trash with rm-style flags](https://gist.github.com/banyudu/7e2e7db6560a0456878d93efb8355102)
 - [Auto generate git commit message with ollama](https://gist.github.com/banyudu/25de089e4690d50f912c0e43f9568708)
 - [Recover broken webm file](https://gist.github.com/banyudu/c2cd466470a8a2ff1daecd5aed36b3eb)
 - [Git merge-info command](https://gist.github.com/banyudu/ed874e8011366c755288579e4cded35b)
 - [Introducing S.T.A.R as an alternative to S.M.A.R.T objective definition](https://gist.github.com/banyudu/48a38feb53d03909ab32ee96e388609b)
-- [Typescript truthy falsy guard](https://gist.github.com/banyudu/2787db221933bbdd935f67b40da14096)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
