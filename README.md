@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Safe rm wrapper for macOS - delegates to trash with rm-style flags](https://gist.github.com/banyudu/7e2e7db6560a0456878d93efb8355102)
-- [Auto generate git commit message with ollama](https://gist.github.com/banyudu/25de089e4690d50f912c0e43f9568708)
-- [Recover broken webm file](https://gist.github.com/banyudu/c2cd466470a8a2ff1daecd5aed36b3eb)
-- [Git merge-info command](https://gist.github.com/banyudu/ed874e8011366c755288579e4cded35b)
-- [Introducing S.T.A.R as an alternative to S.M.A.R.T objective definition](https://gist.github.com/banyudu/48a38feb53d03909ab32ee96e388609b)
+- [Managing Multiple Git Configurations](https://medium.com/@banyudu/managing-multiple-git-configurations-798df84404d2?source=rss-797858f53642------2)
+- [How to add custom request header to Rewrites in Next.js](https://stackoverflow.com/questions/77610279/how-to-add-custom-request-header-to-rewrites-in-next-js)
+- [Overcoming Chrome Extension Manifest V3 Remote Code Restrictions: A Breakthrough and Its…](https://medium.com/@banyudu/overcoming-chrome-extension-manifest-v3-remote-code-restrictions-a-breakthrough-and-its-b8854eeb2ef2?source=rss-797858f53642------2)
+- [Answer by banyudu for Continue building React project with newer version](https://stackoverflow.com/questions/73459218/continue-building-react-project-with-newer-version/73467110#73467110)
+- [Answer by banyudu for How to style child components in React with CSS Modules](https://stackoverflow.com/questions/50746912/how-to-style-child-components-in-react-with-css-modules/73285924#73285924)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
